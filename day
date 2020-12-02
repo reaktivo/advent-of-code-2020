@@ -1,0 +1,2 @@
+cd $1
+deno run --allow-all index.js
