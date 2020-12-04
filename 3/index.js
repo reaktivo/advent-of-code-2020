@@ -32,6 +32,6 @@ function part2() {
   return count;
 }
 
-console.log(part1());
+console.log('Part 1 result:', part1());
 
-console.log(part2());
+console.log('Part 2 result:', part2());

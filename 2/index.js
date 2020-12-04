@@ -22,8 +22,6 @@ function part1() {
     .length
 }
 
-console.log(part1());
-
 function part2() {
   return rows
     .filter(row => {
@@ -33,4 +31,6 @@ function part2() {
     .length;
 }
 
-console.log(part2());
+console.log('Part 1 result:', part1());
+
+console.log('Part 2 result:', part2());
